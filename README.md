@@ -1,6 +1,6 @@
 # 📝 surveyForm
 ​
-Bem-vindo ao repositório **Survey Form**! Este projeto consiste em um formulário de pesquisa simples e responsivo, desenvolvido com **HTML5** e **CSS3**. O objetivo é praticar a criação de formulários acessíveis e visualmente agradáveis, fundamentais para a coleta de feedback de usuários em sites e aplicações web.​
+Welcome to the **Survey Form** repository! This project consists of a simple and responsive survey form, developed with **HTML5** and **CSS3**. The goal is to practice creating accessible and visually pleasing forms, essential for collecting user feedback on websites and web applications.
 
 ## Layout
 
@@ -8,15 +8,15 @@ Bem-vindo ao repositório **Survey Form**! Este projeto consiste em um formulár
     <img src="images/formulario.png">
 </div>
 
-## 📋 Funcionalidades
+## 📋 Features
 
-- **Formulário de Pesquisa:** Inclui campos para nome, e-mail, idade, opções de múltipla escolha e área de texto para comentários, permitindo que usuários forneçam feedback detalhado.
+- **Survey Form:** Includes fields for name, email, age, multiple choice options, and a comment text area, allowing users to provide detailed feedback.
 
-- **Layout Responsivo:** Adapta-se a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
+- **Responsive Layout:** Adapts to different screen sizes, ensuring a good experience on mobile devices and desktops.
 
-- **Design Limpo e Intuitivo:** Utiliza uma paleta de cores suave e tipografia legível para facilitar a leitura e a navegação.​
+- **Clean and Intuitive Design:** Uses a soft color palette and legible typography to make it easy to read and navigate.​
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estruturação semântica do conteúdo da página.
+## 🛠️ Technologies Used
+- **HTML5**: Semantic structuring of the page content.
 
-- **CSS3**: Estilização e layout responsivo do formulário.​
+- **CSS3**: Responsive styling and layout of the form.​
